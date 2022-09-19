@@ -7,5 +7,5 @@ https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding
 
 https://github.com/snap-stanford/ogb.git
 
-We discussed the final results in our [blog post](https://medium.com/@seshwan2/de5acf0553ac) . We had our entities and relations embedded in 1000-dimensional vectors. These vectors are representations of our entities and relations and can be used, according to our models, to make link predictions and perform graph completion tasks.
+We discussed the final results in our [blog post](https://medium.com/@seshwan2/de5acf0553ac) . We had our entities and relations embedded in 1000-dimensional vectors. These vectors are representations of our entities and relations and can be used, according to our models, to make link predictions and to perform graph completion tasks.
 
